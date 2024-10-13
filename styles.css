@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.postimg.cc/gJcQ3yNm/sheep.jpg);
+    background-repeat: repeat;
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    font-size: 72px;
+    color: #6b4f4f;
+    text-align: center;
+    background-color:aliceblue;
+}
+
