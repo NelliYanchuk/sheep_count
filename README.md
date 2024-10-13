@@ -22,7 +22,7 @@ Just pass a list of booleans, and the function will tell you how many sheep surv
 ## 🚀 Get Started:
 Clone the repository, open index.html in your browser and start counting sheep!
 ```javascript
-git clone https://github.com/NelliYanchuk/Counting-Sheeps.git
+git clone https://github.com/NelliYanchuk/sheep_count.git
 ```
 
 ## 🧑‍💻 Team:
