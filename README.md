@@ -2,6 +2,10 @@
 
 Welcome to **Counting Sheeps**, the ultimate sheep-counting experience! 🐺❌🐑✅
 
+## 🧑‍💻 Live Demo
+
+You can view the live version of the project through **GitHub Pages**: [Dragonball Web Project](https://nelliYanchuk.github.io/sheep_count)
+
 ## 🌟 The Challenge:
 Ever wondered how many sheep you’ve got before the wolves sneak in? Now you can find out! The goal of this project is to count the sheep (represented by `true` values) while dodging the wolves (`false` values).
 
@@ -27,3 +31,6 @@ git clone https://github.com/NelliYanchuk/sheep_count.git
 
 ## 🧑‍💻 Team:
 Developed by Nelli Yanchuk, always keeping the sheep safe! 🐑✨
+
+![Page Screenshot](https://i.ibb.co/vjZcS4Z/Sheep-Count.png)
+
